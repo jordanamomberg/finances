@@ -27,6 +27,7 @@ export const Title = styled.h1`
   background: white;
   box-shadow: rgb(0 0 0 / 16%) 0px 9px 27px;
   padding: 16px;
+  z-index: 1;
 
   position: fixed;
   top: 0;
