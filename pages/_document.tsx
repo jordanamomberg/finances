@@ -38,8 +38,7 @@ class MyDocument extends Document {
     return (
       <Html lang="pt-br">
         <Head>
-          {/* TODO: Alterar URL */}
-          <link rel="canonical" href="https://reppara.com.br/" />
+          <link rel="canonical" href="finances.com.br" />
           <link rel="icon" href="/favicon.svg" />
 
           <meta charSet="utf-8" />
